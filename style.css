@@ -1,0 +1,100 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+#container {
+    border: 2px solid black;
+    text-align: justify;
+    padding: 10px 30px 30px 30px;
+    box-sizing: border-box;
+    margin: 25px;
+}
+
+#container>h1 {
+    color: #000;
+    font-size: 64px;
+    font-weight: 700;
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+    text-underline-offset: 0.2em;
+    text-decoration-skip-ink: none;
+
+}
+
+#container>p {
+    color: #000;
+    font-size: 40px;
+    font-weight: 400;
+}
+
+#container>p>b {
+    font-style: italic;
+    color: #000;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+#eg1 {
+    color: #000;
+    font-size: 40px;
+    font-weight: 400;
+    text-decoration-line: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 0.2em;
+    text-decoration-skip-ink: none;
+    text-decoration-thickness: 2px;
+
+}
+
+#eg2 {
+    /* border:1px solid black; */
+    width: 962px;
+    margin : 25px;
+}
+
+h2 {
+    color: #000;
+    font-size: 64px;
+    font-weight: 700;
+    text-decoration-line: underline;
+    text-decoration-thickness: 3px;
+    text-underline-offset: 0.2em;
+    text-decoration-skip-ink: none;
+}
+
+#eg2>img {
+    width: 1051px;
+    height: 762px;
+}
+
+#eg3 {
+    color: #000;
+    font-size: 40px;
+    font-weight: 400;
+    text-decoration-line: underline;
+    text-underline-offset: 0.2em;
+    text-decoration-skip-ink: none;
+    text-decoration-thickness: 3px;
+    margin : 25px;
+}
+#eg4{
+    margin : 25px;
+}
+
+#eg4>h1 {
+    color: #000;
+    font-size: 64px;
+    font-weight: 700;
+    text-decoration-line: underline;
+    text-underline-offset: 0.2em;
+    text-decoration-skip-ink: none;
+    text-decoration-thickness: 3px;
+}
+
+#eg4>ol>li {
+    color: #000;
+    font-size: 40px;
+    font-weight: 400;
+}
